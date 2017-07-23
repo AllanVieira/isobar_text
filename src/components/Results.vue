@@ -38,4 +38,26 @@
   }
 </script>
 <style type="text/css">  
+  .bands {
+    padding: 5px 20px;
+    height: 70px;
+    cursor: pointer;
+  }
+  .bands:hover {
+    background: #e0e0e0;
+  }
+  .bands img {
+    width: 60px;
+    border-radius: 50%;
+    float: left;
+  }
+  .bands h1 {
+    text-align: left;
+    font-size: 20px;
+    margin-left: 75px;
+  }
+  .bands p {
+    text-align: left;
+    margin-left: 75px;
+  }
 </style>

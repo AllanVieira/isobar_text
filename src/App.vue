@@ -27,4 +27,10 @@ export default {
   text-align: center;
   color: #2c3e50;  
 }
+.header {
+  width: 100%;
+  height: 20px;
+  padding: 20px 0px;
+  background-color: #F75310;
+}
 </style>
